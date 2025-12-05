@@ -1,0 +1,2 @@
+File in Write mode ....A new text in the write mode
+ File in append mode ....Append text
